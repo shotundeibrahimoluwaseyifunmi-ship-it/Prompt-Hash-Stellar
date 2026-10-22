@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-1098-implement-privacy-safe-structured-logging-with",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-1098-implement-privacy-safe-structured-logging-with": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-1098-implement-privacy-safe-structured-logging-with",
+    "origin"
+  ]
+}
